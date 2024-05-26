@@ -8,5 +8,8 @@
 ![image](https://github.com/chihyeonwon/Employment/assets/58906858/b6cf34d5-87e4-40ae-aa09-3fc82adad0af)
 ```
 L형, 직업훈련탐색, 통장사본제출 다음 05.29 이후
+
+지인추천- 현대제철
+원주 1순위, 서울 2순위 : 개발 직무 관련 
 ```
 ## 24.05.29

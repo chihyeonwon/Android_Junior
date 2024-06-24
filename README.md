@@ -23,6 +23,8 @@ L형, 직업훈련탐색, 통장사본제출 다음 05.29 이후
 ```
 이력서&자기소개서, 입사지원서 제출
 ```
+![image](https://github.com/chihyeonwon/Android_Junior/assets/58906858/5cec0aad-a532-4c99-ba11-8402a8646473)
+
 ## 24 하반기 지원 [자체 서비스 회사]
 
 ||서류|면접|
